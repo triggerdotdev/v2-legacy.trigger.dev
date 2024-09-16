@@ -1,5 +1,11 @@
 # @trigger.dev/astro
 
+## 3.0.0
+
+### Major Changes
+
+- 88137bd: Bump to version 3 to match the official packages (this way v2 and v3 can still be used together in the same project without package conflicts)
+
 ## 3.0.0-beta.55
 
 ### Patch Changes
