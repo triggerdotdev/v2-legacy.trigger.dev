@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "hono": "3.x",
-    "@trigger.dev/sdk": "^3.0.0-beta.55"
+    "@trigger.dev/sdk": "~2.3.0 || ^3.0.0"
   },
   "devDependencies": {
     "@trigger.dev/tsconfig": "workspace:*",
@@ -41,7 +41,7 @@
     "@trigger.dev/tsup": "workspace:*",
     "typescript": "^5.3.0",
     "hono": "3.10.3",
-    "@trigger.dev/sdk": "^3.0.0-beta.55"
+    "@trigger.dev/sdk": "~2.3.0 || ^3.0.0"
   },
   "engines": {
     "node": ">=18.0.0"

@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "5.0.0-beta.2",
-    "@trigger.dev/core": "^3.0.0-beta.55",
+    "@trigger.dev/core": "~2.3.0 || ^3.0.0",
     "debug": "^4.3.4",
     "zod": "3.22.3"
   },
