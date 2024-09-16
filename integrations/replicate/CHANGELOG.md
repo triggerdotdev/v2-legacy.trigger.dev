@@ -1,5 +1,13 @@
 # @trigger.dev/replicate
 
+## 3.0.1
+
+### Patch Changes
+
+- c7494d4: Update to 3.0.1
+- Updated dependencies [c7494d4]
+  - @trigger.dev/integration-kit@3.0.1
+
 ## 3.0.0
 
 ### Major Changes

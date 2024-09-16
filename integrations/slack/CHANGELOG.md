@@ -1,5 +1,11 @@
 # @trigger.dev/slack
 
+## 3.0.1
+
+### Patch Changes
+
+- c7494d4: Update to 3.0.1
+
 ## 3.0.0
 
 ### Major Changes
