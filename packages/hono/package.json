@@ -1,6 +1,6 @@
 {
   "name": "@trigger.dev/hono",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A Trigger.dev adapter for Hono.dev",
   "license": "MIT",
   "main": "./dist/index.js",
