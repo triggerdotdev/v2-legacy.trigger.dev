@@ -1,7 +1,7 @@
 {
   "name": "@trigger.dev/astro",
   "description": "An Astro-native integration for Trigger.dev background jobs platform",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
