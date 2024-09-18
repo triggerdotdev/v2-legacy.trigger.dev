@@ -1,5 +1,13 @@
 # @trigger.dev/shopify
 
+## 3.0.4
+
+### Patch Changes
+
+- Release 3.0.4
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.0.4
+
 ## 3.0.3
 
 ### Patch Changes
