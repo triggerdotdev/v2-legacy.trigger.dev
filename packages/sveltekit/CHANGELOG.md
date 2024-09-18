@@ -1,5 +1,11 @@
 # @trigger.dev/sveltekit
 
+## 3.0.3
+
+### Patch Changes
+
+- Release 3.0.3
+
 ## 3.0.2
 
 ### Patch Changes
