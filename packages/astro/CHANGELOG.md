@@ -1,5 +1,11 @@
 # @trigger.dev/astro
 
+## 3.0.6
+
+### Patch Changes
+
+- Release 3.0.6
+
 ## 3.0.5
 
 ### Patch Changes

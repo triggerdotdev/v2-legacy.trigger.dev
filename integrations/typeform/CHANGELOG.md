@@ -1,5 +1,13 @@
 # @trigger.dev/typeform
 
+## 3.0.6
+
+### Patch Changes
+
+- Release 3.0.6
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.0.6
+
 ## 3.0.5
 
 ### Patch Changes
