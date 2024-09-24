@@ -1,5 +1,11 @@
 # @trigger.dev/hono
 
+## 3.0.7
+
+### Patch Changes
+
+- Release 3.0.7
+
 ## 3.0.6
 
 ### Patch Changes
