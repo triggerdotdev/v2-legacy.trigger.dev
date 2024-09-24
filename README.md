@@ -16,7 +16,7 @@ This repo contains v2 specific code:
 ### Releasing a new patch version
 
 ```sh
-pnpm run changeset:add
+pnpm run changeset:add # patch release
 pnpm run changeset:version
 git commit -am "chore: release 3.0.x"
 git push
