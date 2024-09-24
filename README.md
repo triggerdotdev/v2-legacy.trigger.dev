@@ -18,7 +18,8 @@ This repo contains v2 specific code:
 ```sh
 pnpm run changeset:add # patch release
 pnpm run changeset:version
-git commit -am "chore: release 3.0.x"
+pnpm i # update pnpm-lock.yaml
+git commit -am "Release 3.0.x"
 git push
 pnpm run changeset:release
 ```
