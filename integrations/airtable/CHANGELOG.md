@@ -1,5 +1,13 @@
 # @trigger.dev/airtable
 
+## 3.0.9
+
+### Patch Changes
+
+- Release 3.0.9
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.0.9
+
 ## 3.0.8
 
 ### Patch Changes

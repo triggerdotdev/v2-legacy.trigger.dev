@@ -1,5 +1,11 @@
 # @trigger.dev/nestjs
 
+## 3.0.9
+
+### Patch Changes
+
+- Release 3.0.9
+
 ## 3.0.8
 
 ### Patch Changes
