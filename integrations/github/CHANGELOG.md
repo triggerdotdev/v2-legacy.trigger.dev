@@ -1,5 +1,13 @@
 # @trigger.dev/github
 
+## 3.0.11
+
+### Patch Changes
+
+- Release 3.0.11
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.0.11
+
 ## 3.0.10
 
 ### Patch Changes
