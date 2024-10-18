@@ -1,6 +1,6 @@
 {
   "name": "@trigger.dev/react",
-  "version": "3.0.12",
+  "version": "3.0.13",
   "description": "Trigger.dev React SDK",
   "license": "MIT",
   "types": "dist/index.d.ts",
