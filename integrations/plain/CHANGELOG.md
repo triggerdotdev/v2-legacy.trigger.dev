@@ -1,5 +1,16 @@
 # @trigger.dev/plain
 
+## 3.1.0
+
+### Minor Changes
+
+- Release 3.1.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.1.0
+
 ## 3.0.13
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @trigger.dev/react
 
+## 3.1.0
+
+### Minor Changes
+
+- Release 3.1.0
+
 ## 3.0.13
 
 ### Patch Changes
