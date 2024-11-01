@@ -1,6 +1,6 @@
 {
   "name": "@trigger.dev/nestjs",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Official NestJS adapter for Trigger.dev",
   "license": "MIT",
   "main": "./dist/index.js",
