@@ -1,5 +1,11 @@
 # @trigger.dev/nextjs
 
+## 3.1.2
+
+### Patch Changes
+
+- Release 3.1.2
+
 ## 3.1.1
 
 ### Patch Changes
