@@ -1,5 +1,11 @@
 # @trigger.dev/sveltekit
 
+## 3.2.0
+
+### Minor Changes
+
+- Release 3.2.0
+
 ## 3.1.3
 
 ### Patch Changes
