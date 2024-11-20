@@ -1,5 +1,13 @@
 # @trigger.dev/github
 
+## 3.2.1
+
+### Patch Changes
+
+- Release 3.2.1
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.2.1
+
 ## 3.2.0
 
 ### Minor Changes

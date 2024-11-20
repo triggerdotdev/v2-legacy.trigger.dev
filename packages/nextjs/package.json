@@ -1,6 +1,6 @@
 {
   "name": "@trigger.dev/nextjs",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Trigger.dev Next.js integration",
   "license": "MIT",
   "main": "./dist/index.js",
