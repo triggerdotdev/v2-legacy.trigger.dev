@@ -1,5 +1,11 @@
 # @trigger.dev/integration-kit
 
+## 3.2.2
+
+### Patch Changes
+
+- Release 3.2.2
+
 ## 3.2.1
 
 ### Patch Changes

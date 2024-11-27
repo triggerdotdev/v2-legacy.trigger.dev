@@ -1,5 +1,11 @@
 # @trigger.dev/eslint-plugin
 
+## 3.2.2
+
+### Patch Changes
+
+- Release 3.2.2
+
 ## 3.2.1
 
 ### Patch Changes
