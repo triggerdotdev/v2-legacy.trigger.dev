@@ -1,5 +1,11 @@
 # @trigger.dev/nestjs
 
+## 3.3.0
+
+### Minor Changes
+
+- 1d4468b: Release 3.3.0
+
 ## 3.2.2
 
 ### Patch Changes

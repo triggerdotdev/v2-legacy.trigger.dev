@@ -1,6 +1,6 @@
 {
   "name": "@trigger.dev/sveltekit",
-  "version": "3.2.2",
+  "version": "3.3.0",
   "description": "Trigger.dev svelteKit integration",
   "license": "MIT",
   "main": "./dist/index.js",

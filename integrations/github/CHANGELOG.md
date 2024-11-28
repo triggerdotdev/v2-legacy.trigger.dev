@@ -1,5 +1,16 @@
 # @trigger.dev/github
 
+## 3.3.0
+
+### Minor Changes
+
+- 1d4468b: Release 3.3.0
+
+### Patch Changes
+
+- Updated dependencies [1d4468b]
+  - @trigger.dev/integration-kit@3.3.0
+
 ## 3.2.2
 
 ### Patch Changes
