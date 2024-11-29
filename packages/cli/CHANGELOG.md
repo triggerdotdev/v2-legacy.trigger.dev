@@ -1,5 +1,13 @@
 # create-trigger
 
+## 3.3.1
+
+### Patch Changes
+
+- Release 3.3.1
+- Updated dependencies
+  - @trigger.dev/yalt@3.3.1
+
 ## 3.3.0
 
 ### Minor Changes
