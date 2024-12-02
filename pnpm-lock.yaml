@@ -115,7 +115,7 @@ importers:
   integrations/airtable:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -158,7 +158,7 @@ importers:
         specifier: ^12.0.10
         version: 12.0.10
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -201,7 +201,7 @@ importers:
         specifier: ^8.0.0
         version: 8.0.0
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -232,7 +232,7 @@ importers:
   integrations/openai:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -275,7 +275,7 @@ importers:
         specifier: ^2.7.0
         version: 2.7.0
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -303,7 +303,7 @@ importers:
   integrations/replicate:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -337,7 +337,7 @@ importers:
   integrations/resend:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -371,7 +371,7 @@ importers:
         specifier: ^7.7.0
         version: 7.7.0
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -402,7 +402,7 @@ importers:
         specifier: ^8.0.2
         version: 8.0.2
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -464,7 +464,7 @@ importers:
   integrations/stripe:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -501,7 +501,7 @@ importers:
         specifier: ^2.26.0
         version: 2.31.0
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0
@@ -535,7 +535,7 @@ importers:
   integrations/typeform:
     dependencies:
       '@trigger.dev/integration-kit':
-        specifier: workspace:^3.3.1
+        specifier: workspace:^3.3.2
         version: link:../../packages/integration-kit
       '@trigger.dev/sdk':
         specifier: ~2.3.0 || ^3.0.0

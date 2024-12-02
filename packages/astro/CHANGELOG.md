@@ -1,5 +1,11 @@
 # @trigger.dev/astro
 
+## 3.3.2
+
+### Patch Changes
+
+- Release 3.3.2
+
 ## 3.3.1
 
 ### Patch Changes
