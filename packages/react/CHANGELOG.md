@@ -1,5 +1,11 @@
 # @trigger.dev/react
 
+## 3.3.4
+
+### Patch Changes
+
+- Release 3.3.4
+
 ## 3.3.3
 
 ### Patch Changes
