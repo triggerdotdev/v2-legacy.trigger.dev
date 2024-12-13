@@ -1,5 +1,13 @@
 # @trigger.dev/linear
 
+## 3.3.7
+
+### Patch Changes
+
+- Release 3.3.7
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.3.7
+
 ## 3.3.6
 
 ### Patch Changes
