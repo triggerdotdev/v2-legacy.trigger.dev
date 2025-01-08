@@ -1,5 +1,13 @@
 # @trigger.dev/resend
 
+## 3.3.8
+
+### Patch Changes
+
+- Release 3.3.8
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.3.8
+
 ## 3.3.7
 
 ### Patch Changes
