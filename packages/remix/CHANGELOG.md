@@ -1,5 +1,11 @@
 # @trigger.dev/remix
 
+## 3.3.9
+
+### Patch Changes
+
+- Release 3.3.9
+
 ## 3.3.8
 
 ### Patch Changes
