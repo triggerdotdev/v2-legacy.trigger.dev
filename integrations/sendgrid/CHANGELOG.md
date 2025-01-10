@@ -1,5 +1,13 @@
 # @trigger.dev/sendgrid
 
+## 3.3.10
+
+### Patch Changes
+
+- Release 3.3.10
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.3.10
+
 ## 3.3.9
 
 ### Patch Changes
