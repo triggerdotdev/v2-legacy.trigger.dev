@@ -1,5 +1,13 @@
 # @trigger.dev/supabase
 
+## 3.3.11
+
+### Patch Changes
+
+- Release 3.3.11
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.3.11
+
 ## 3.3.10
 
 ### Patch Changes
