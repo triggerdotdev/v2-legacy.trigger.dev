@@ -1,5 +1,13 @@
 # @trigger.dev/stripe
 
+## 3.3.12
+
+### Patch Changes
+
+- Release 3.3.12
+- Updated dependencies
+  - @trigger.dev/integration-kit@3.3.12
+
 ## 3.3.11
 
 ### Patch Changes
